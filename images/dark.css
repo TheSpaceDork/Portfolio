@@ -28,7 +28,8 @@ header .ms-social li a {
   color: #fff;
 }
 
-.ms-contact-section form .form-group input, .ms-contact-section form .form-group textarea {
+.ms-contact-section form .form-group input,
+.ms-contact-section form .form-group textarea {
   background: #2c2f36 !important;
   border-color: #2c2f36 !important;
 }
@@ -39,7 +40,8 @@ header .ms-social li a {
 .ms-contact-section .ms-contact-detail .ms-box .info p {
   color: #ccc;
 }
-.ms-contact-section form .form-group input, .ms-contact-section form .form-group textarea {
+.ms-contact-section form .form-group input,
+.ms-contact-section form .form-group textarea {
   color: #bbb;
 }
 
@@ -75,8 +77,10 @@ header .ms-social li a {
   background: #17181c !important;
   border-color: #17181c !important;
   color: #fff;
+  display: none;
 }
-.ms-tool .ms-color, .ms-tool .ms-dark {
+.ms-tool .ms-color,
+.ms-tool .ms-dark {
   background-color: #2c2f36 !important;
 }
 
@@ -87,7 +91,8 @@ header .ms-social li a {
 .sidebar-title {
   border-color: #2c2f36 !important;
 }
-.sidebar-title h5, .sidebar-title a {
+.sidebar-title h5,
+.sidebar-title a {
   color: #fff;
 }
 
@@ -128,7 +133,8 @@ header .ms-social li a {
 .ms-about-info ul li {
   color: #bbb;
 }
-.ms-about-info ul li .title, .ms-about-info ul li b {
+.ms-about-info ul li .title,
+.ms-about-info ul li b {
   color: #bbb;
 }
 
@@ -153,7 +159,8 @@ header .ms-social li a {
   color: #fff;
 }
 
-.timeline-marker:after, .timeline-marker:before {
+.timeline-marker:after,
+.timeline-marker:before {
   border-color: #2c2f36 !important;
 }
 
@@ -202,7 +209,8 @@ header .ms-social li a {
   fill: #ccc;
 }
 
-.education h4, .experiense h4 {
+.education h4,
+.experiense h4 {
   color: #ccc;
 }
 
